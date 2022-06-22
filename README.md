@@ -1,5 +1,4 @@
 # Portafolio - 2022
-<center> <h1>Análisis Exploratorio de Datos de la Premier League</h1> </center> 
 <center> <h2>Autor: María del Pilar Velásquez Condori</h2> </center> 
 <center> <h3>Bienvenido (a) a mi portafolio. Desde ya, espero que toda la información que se encuentra aquí, sea de mucha ayuda para ti.</h3> </center> 
 
