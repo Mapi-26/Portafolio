@@ -1,8 +1,24 @@
-# Portafolio - 2022
-<center> <h2>Autor: María del Pilar Velásquez Condori</h2> </center> 
-<center> <h3>Bienvenido (a) a mi portafolio. Desde ya, espero que toda la información que se encuentra aquí, sea de mucha ayuda para ti.</h3> </center> 
+# Mi_Portafolio
+En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Science con Python.
 
-<center> <h3>Como verás, tengo un poco de experiencia en ciencia de datos desde el año 2021. </h3> </center> 
-<center> <h3> Puedes encontrar diferentes bases de datos de muchas temáticas. Asimismo, el mismo análisis exploratorio de cada base. </h3> </center> 
-<center> <h3> Si tienes alguna consulta sobre el contenido de mi portafolio, puedes ingresar a mi perfil de LinkedIn </h3> </center> 
-<center> <h3> https://www.linkedin.com/in/maria-del-pilar-velasquez-condori-8107b4242/ </h3> </center> 
+## Autor
+**María del Pilar Velásquez Condori**
+
+* [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
+* [GitHub](https://ronyticona1.github.io/Mi_Portafolio/)
+
+# Lenguaje de Programación:
+- Python
+
+# IDE Recomendada:
+- Jupyter Notebook
+- Jupyter Lab
+
+# Librerías:
+- For Data Science
+
+# Experiencia:
+Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
+
+# Contenido:
+Encontrarás una serie de bases de datos con una temática variada, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de cada DataFrame.
